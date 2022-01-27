@@ -237,8 +237,10 @@ h2 {
 }
 
 .map{
-  margin-top: 30px;
-  margin-left: 300px;
+  margin-top: -200px;
+  margin-left: 400px;
+  width: 200px;
+  height: 150px;
 }
 
 .intro-title {
