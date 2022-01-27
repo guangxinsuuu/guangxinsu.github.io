@@ -1,0 +1,67 @@
+h1 {
+    margin-left: 40%;
+    margin-top: 2%;
+}
+
+.scroll_text {
+    display:inline-block;
+    border: 1px solid black;
+    margin-left:5%;
+    margin-top:3%;
+    padding:1% 50% 1% 1%;
+}
+
+.scroll_img {
+    display: inline-block;
+    width:10%;
+    margin-left:5%;
+    margin-bottom: 5%;
+    
+}
+
+.scroll {
+    border: 1px solid black;
+    margin-top: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 3%;;
+}
+
+#upload {
+    border: 1px solid black;
+    margin: 0% 10%;
+    margin-right: 5%;
+    width: 30%;
+    display: inline-block;
+}
+
+#upload_img {
+    padding:5%;
+}
+
+#upload_button {
+    margin:10%;
+}
+
+#filters {
+    border: 1px solid black;
+    margin: 0% 10%;
+    display: inline-block;
+    width:30%;
+    
+}
+
+.filters {
+    border: 1px solid black;
+    margin: 5% 10%;
+    padding: 3%;
+    padding-left: 24%;
+    margin-bottom: 10%;
+}
+
+.logo {
+    display: inline-block;
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
